@@ -6,7 +6,8 @@
   "devDependencies": {
     "@slidev/cli": "^0.28.5",
     "@slidev/theme-default": "^0.21.1",
-    "rimraf": "^3.0.2",
-    "@slidev/theme-seriph": "*"
+    "@slidev/theme-seriph": "*",
+    "pnpm": "^6.32.3",
+    "rimraf": "^3.0.2"
   }
 }
