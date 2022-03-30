@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "rimraf dist && pnpm -r run build"
+  },
+  "devDependencies": {
+    "@slidev/cli": "^0.28.5",
+    "@slidev/theme-default": "^0.21.1",
+    "rimraf": "^3.0.2",
+    "@slidev/theme-seriph": "*"
+  }
+}

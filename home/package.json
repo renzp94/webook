@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "slidev build --out ../dist",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "name": "html"
+}
